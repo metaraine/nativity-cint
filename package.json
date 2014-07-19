@@ -1,0 +1,23 @@
+{
+  "name": "nativity-cint",
+  "version": "6.2.0",
+  "description": "nativity plugin to safely install cint methods onto native object prototypes",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/metaraine/nativity-cint.git"
+  },
+  "keywords": [
+    "prototype"
+  ],
+  "author": "Raine Lourie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/metaraine/nativity-cint/issues"
+  },
+  "homepage": "https://github.com/metaraine/nativity-cint",
+  "devDependencies": {
+  },
+  "dependencies": {
+  }
+}
