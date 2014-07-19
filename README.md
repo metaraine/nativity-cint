@@ -1,5 +1,5 @@
 # nativity-cint
-[nativity](https://github.com/metaraine/cint) plugin to safely install [cint](https://github.com/metaraine/cint) methods onto native Array, String, Number, and Function prototypes.
+[nativity](https://github.com/metaraine/nativity) plugin to safely install [cint](https://github.com/metaraine/cint) methods onto native Array, String, Number, and Function prototypes.
 
 ## Install
 
